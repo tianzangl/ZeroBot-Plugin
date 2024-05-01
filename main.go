@@ -249,7 +249,7 @@ func init() {
 	}
 
 	// 通过代码写死的方式添加主人账号
-	// sus = append(sus, 12345678)
+	// sus = append(sus, 1422988057)
 	// sus = append(sus, 87654321)
 
 	// 启用 webui
